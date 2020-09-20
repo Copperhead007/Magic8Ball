@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="button_text">Ask the Magic 8 ball</string>
+    <string name="response_text">...</string>
+    <string name="response_a">Concentrate and ask again</string>
+    <string name="response_b">It is certain</string>
+    <string name="response_c">It is decidely so</string>
+    <string name="response_d">Without a doubt</string>
+    <string name="response_e">Yes definitely</string>
+    <string name="response_f">You may rely on it</string>
+    <string name="response_g">As I see it, yes</string>
+    <string name="response_h">Most likely</string>
+    <string name="response_i">Outlook good</string>
+    <string name="response_j">Yes</string>
+    <string name="response_k">Signs point to yes</string>
+    <string name="response_l">Reply hazy try again</string>
+    <string name="response_m">Ask again later</string>
+    <string name="response_n">Better not tell you now</string>
+    <string name="response_o">Cannot predict now</string>
+    <string name="response_p">Dont count on it</string>
+    <string name="response_q">My reply is no</string>
+    <string name="response_r">My sources say no</string>
+    <string name="response_s">Outlook not so good</string>
+    <string name="response_t">Very doubtful</string>
+
+</resources>
